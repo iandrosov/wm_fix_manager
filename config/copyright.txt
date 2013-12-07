@@ -1,0 +1,15 @@
+webMethods Fix Manager
+    	
+This software created by Igor Androsov
+and distributed by AI Solitions Inc.
+For information or recomendations contact Igor by e-mail: iandrosov@yahoo.com
+
+Version: 1.0.0
+    	
+(c) Copyright AI Solitions Inc. and Igor Androsov 2005 2006.  All rights reserved.
+    	
+This product requires software libraries developed by:
+Apache Software Foundation http://www.apache.org/
+Eclipse contributors Visit http://www.eclipse.org/
+webMethods Inc http://www.webmethods.com/
+webMethods is a registered trademark of webMethods, Inc.

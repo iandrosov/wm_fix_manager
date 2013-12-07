@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: WmFixer
+Class-Path: lib/swt.jar 
+ lib/xerces.jar 
+ lib/classes12.jar 
+ lib/client.jar 
+ lib/entbase.jar 
+ lib/entcertlist.jar 
+ lib/entcms.jar 
+ lib/entmisc.jar 
+
